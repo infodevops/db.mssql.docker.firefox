@@ -1,0 +1,1 @@
+CREATE LOGIN Chrome_User WITH PASSWORD = 'abcdefgh'
